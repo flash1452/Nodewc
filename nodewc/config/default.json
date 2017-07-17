@@ -1,0 +1,9 @@
+{
+	"command_options" : {
+		"bytes" : "1",
+		"chars" : "2",
+		"words" : "3",
+		"lines" : "4",
+		"longestline" : "5"
+	}
+}

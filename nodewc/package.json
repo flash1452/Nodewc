@@ -1,0 +1,22 @@
+{
+  "name": "nodewc",
+  "version": "1.0.0",
+  "description": "Mock of word count command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "nodewc": "index.js"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "commander": "~2.11.0",
+    "config": "~1.26.1",
+    "fs": "0.0.1-security",
+    "jasmine-node": "~1.14.5",
+    "node-cmd": "~3.0.0"
+  },
+  "devDependencies": {}
+}
